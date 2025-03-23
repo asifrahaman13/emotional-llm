@@ -7,5 +7,6 @@ requires-python = ">=3.12"
 dependencies = [
     "ipykernel>=6.29.5",
     "ollama>=0.4.7",
+    "qdrant-client>=1.13.3",
     "scikit-learn>=1.6.1",
 ]
