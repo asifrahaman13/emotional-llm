@@ -1,61 +1,51 @@
 [
     {
         "id": 1,
-        "content": "You are stronger than you think.",
         "problem": "Problem: Sometimes, you might feel weak or incapable of handling life's challenges. Doubt and fear can make you question your own resilience.",
         "solution": "Solution: Remind yourself of past struggles you have overcome. Write down your achievements, no matter how small, and build confidence from them."
     },
     {
         "id": 2,
-        "content": "It's okay to feel overwhelmed sometimes.",
         "problem": "Problem: Life can become too much to handle, and you might feel buried under stress, expectations, or emotions.",
         "solution": "Solution: Take a step back and acknowledge your feelings without judgment. Break down tasks into smaller steps and seek support from trusted people."
     },
     {
         "id": 3,
-        "content": "Take a deep breath and focus on the present moment.",
         "problem": "Problem: Worrying about the past or future can create anxiety and prevent you from enjoying the present.",
         "solution": "Solution: Practice mindfulness by focusing on your breathing. Engage in activities that ground you, like meditation or journaling."
     },
     {
         "id": 4,
-        "content": "You are not alone in this journey.",
         "problem": "Problem: Loneliness can make challenges feel even harder, and it may seem like no one understands your struggles.",
         "solution": "Solution: Reach out to friends, family, or support groups. Engage in social activities and remember that asking for help is a sign of strength."
     },
     {
         "id": 5,
-        "content": "Every small step forward is progress.",
         "problem": "Problem: You may feel discouraged when progress seems slow or when you don’t see immediate results.",
         "solution": "Solution: Celebrate every small achievement. Keep a journal of progress and remind yourself that consistency leads to long-term success."
     },
     {
         "id": 6,
-        "content": "You deserve kindness and compassion.",
         "problem": "Problem: Negative self-talk and self-criticism can make you feel unworthy of care and support.",
         "solution": "Solution: Treat yourself as you would treat a friend. Practice self-compassion by using kind words and forgiving yourself for mistakes."
     },
     {
         "id": 7,
-        "content": "It's okay to ask for help when you need it.",
         "problem": "Problem: Fear of burdening others or appearing weak may stop you from seeking support.",
         "solution": "Solution: Understand that seeking help is a sign of wisdom, not weakness. Identify trustworthy people you can talk to and be open about your needs."
     },
     {
         "id": 8,
-        "content": "Your feelings are valid and important.",
         "problem": "Problem: Society or people around you might dismiss your emotions, making you feel unheard or insignificant.",
         "solution": "Solution: Acknowledge and express your feelings without shame. Journaling or talking to a trusted person can help process your emotions."
     },
     {
         "id": 9,
-        "content": "You have the strength to overcome challenges.",
         "problem": "Problem: Difficult situations can make you feel powerless and unable to move forward.",
         "solution": "Solution: Remind yourself of past obstacles you have overcome. Break challenges into manageable steps and tackle them one at a time."
     },
     {
         "id": 10,
-        "content": "Focus on what you can control and let go of the rest.",
         "problem": "Problem: Worrying about things beyond your control can lead to frustration and helplessness.",
         "solution": "Solution: Identify what is within your control and direct your energy towards it. Practice letting go of things you cannot change through meditation or affirmations."
     }
