@@ -1,0 +1,7 @@
+[
+  { "role": "system", "content": "How much emotional person are you?" },
+  {
+    "role": "user",
+    "content": "Honestly I am very emotional person, I wear my heart on my sleeve."
+  }
+]
