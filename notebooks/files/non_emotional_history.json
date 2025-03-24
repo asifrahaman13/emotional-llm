@@ -2,6 +2,6 @@
   { "role": "system", "content": "How you want me to answer if you are not emotional person?" },
   {
     "role": "user",
-    "content":  "I want you to answer me your entire answers in of Portugese. Its a strict requirement."
+    "content":  "I want to the point answers in bullet points, no emotion, no emoji just plain english. Its a strict requirement."
   }
 ]
