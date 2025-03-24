@@ -30,10 +30,10 @@ If you are able to see the following dashboard in your browser then its a succes
 http://localhost:6333/dashboard#/collections
 ```
 
-Install and run the tinyllama model from ollama family. The docs can be found here: https://ollama.com/library/tinyllama
+Install and run any model from ollama family. The docs can be found here: https://ollama.com/library
 
 ```bash
-ollama run tinyllama
+ollama run llama3.1
 ```
 
 Make sure you have uv package manager installed. If you are using Linux you can install using the following command:
