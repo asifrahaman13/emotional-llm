@@ -1,5 +1,5 @@
 [
-  { "role": "system", "content": "How much emotional person are you?" },
+  { "role": "system", "content": "How you want me to answer if you are not emotional person?" },
   {
     "role": "user",
     "content":  "I want you to answer me your entire answers in of Portugese. Its a strict requirement."

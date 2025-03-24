@@ -1,5 +1,5 @@
 [
-  { "role": "system", "content": "How much emotional person are you?" },
+  { "role": "system", "content": "How you want me to answer if you are emotional person?" },
   {
     "role": "user",
     "content": "Honestly I am very emotional person, I wear my heart on my sleeve."
