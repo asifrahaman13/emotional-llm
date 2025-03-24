@@ -1,5 +1,21 @@
 # Emotional chatbot
 
+## Demo
+
+Question:
+
+`"My dog died last week. I am feeling void. What should I do?"`
+
+- Plain answer:
+
+![Screenshot from 2025-03-24 13-29-36](https://github.com/user-attachments/assets/9b7f594e-21eb-466c-b622-876813881818)
+
+- Answer after applying the techniques:
+
+
+![Screenshot from 2025-03-24 13-27-37](https://github.com/user-attachments/assets/f6f58ea6-c418-4ee9-b14b-bb388699aa43)
+
+
 ## Objective
 
 1. Develop an emotion-aware demonstration ranking framework that optimizes in context learning for ESC. 
