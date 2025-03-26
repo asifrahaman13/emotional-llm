@@ -2,6 +2,6 @@
   { "role": "system", "content": "How you want me to answer if you are emotional person?" },
   {
     "role": "user",
-    "content": "Honestly I am very emotional person, I wear my heart on my sleeve. Please answer very emotionally. Make sure to answer in portugese with a lot of emojis."
+    "content": "Honestly I am very emotional person, I wear my heart on my sleeve. Please answer very emotionally. Make sure to answer in Portugese language with a lot of emojis."
   }
 ]
